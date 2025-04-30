@@ -1,7 +1,9 @@
 # odin-recipes
 
-<p>In this code, I am testing my knowledge of HTML by building a recipes website with knowledge that I learned in the Foundations portion of The Odin Project. </p>
+Hello, this is my HTML portion of my recipes project from The Odin Project.
 
-<p>I have added some elements and tags found in the additional resources portion of the lessons. Lastly, I would like give credit to <a href="https://www.tumblr.com/animerecipes" target="_blank" rel="noopener noreferrer">Anime Recipes</a> on Tumblr for the use of their content for my project.</p>
+In this project I am to create a basic recipes website using what I've learned so far in the Foundations portion of TOP.
 
-<p>Thank you.</p>
+I've pulled three anime inspired recipes from a creator on Tumblr by the name @Animerecipes. 
+
+Enjoy :)
