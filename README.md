@@ -6,4 +6,4 @@ In this project I am to create a basic recipes website using what I've learned s
 
 I've pulled three anime inspired recipes from a creator on Tumblr by the name @Animerecipes. 
 
-Enjoy :)
+Enjoy :) 
